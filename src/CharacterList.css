@@ -1,0 +1,34 @@
+body {
+    background-color: rgba(13, 3, 53, 0.603);
+}
+
+.characters {
+    display: block;
+    font-size: large;
+    margin-bottom: 10px;
+    text-decoration: none;
+    color: #b9c955;
+}
+
+.characters:visited {
+    color: #b9c955;
+}
+
+.list-button {
+    background-color: #2d3236;
+    color: #fff;
+    border: none;
+    width: 110px;
+    height: 38px;
+    padding: 8px 16px;
+    font-size: 16px;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-top: 5px;
+}
+
+.pages {
+    margin-right: 15px;
+    margin-left: 15px;
+}
+
